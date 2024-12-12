@@ -1,9 +1,8 @@
 {
-    "rewrites": [
-      {
-        "source": "/Tasmanian-Man-Pleads-Guilty-to-Live-Streaming-The-Killing-And-Eating-Of-Dog",
-        "destination": "/Tasmanian-Man-Pleads-Guilty-to-Live-Streaming-The-Killing-And-Eating-Of-Dog.html"
-      }
-    ]
-  }
-  
+  "rewrites": [
+    {
+      "source": "/Drug-Smuggling-Dog-Jarvis-Apprehended-in-Tasmania",
+      "destination": "/Drug-Smuggling-Dog-Jarvis-Apprehended-in-Tasmania.html"
+    }
+  ]
+}
